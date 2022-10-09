@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/full-stack-portfolio/static/css/main.9d7b3d4c.css",
+    "main.js": "/full-stack-portfolio/static/js/main.d4d2d07a.js",
+    "static/media/resturant-img.jpg": "/full-stack-portfolio/static/media/resturant-img.9094eacd6c587a8f0fce.jpg",
+    "static/media/noteTaker.jpg": "/full-stack-portfolio/static/media/noteTaker.8a76f19ebb8a88735f52.jpg",
+    "static/media/calculator.png": "/full-stack-portfolio/static/media/calculator.542e6f05af447cdfdc02.png",
+    "static/media/chat-app.png": "/full-stack-portfolio/static/media/chat-app.1e0de5cff03162e153e9.png",
+    "static/media/background-img.webp": "/full-stack-portfolio/static/media/background-img.53f230b1a6af6d4f12fc.webp",
+    "static/media/e-commerce.jpg": "/full-stack-portfolio/static/media/e-commerce.56a02733b02e5e33411a.jpg",
+    "static/media/myPhoto.jpg": "/full-stack-portfolio/static/media/myPhoto.3d2a80c240f01eee24d1.jpg",
+    "static/media/todo-list.png": "/full-stack-portfolio/static/media/todo-list.5c267ca324db9437da64.png",
+    "static/media/memoryGame.jpg": "/full-stack-portfolio/static/media/memoryGame.f254002fe654f2a25533.jpg",
+    "index.html": "/full-stack-portfolio/index.html",
+    "main.9d7b3d4c.css.map": "/full-stack-portfolio/static/css/main.9d7b3d4c.css.map",
+    "main.d4d2d07a.js.map": "/full-stack-portfolio/static/js/main.d4d2d07a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7b3d4c.css",
+    "static/js/main.d4d2d07a.js"
+  ]
+}
