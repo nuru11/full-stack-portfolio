@@ -1,8 +1,8 @@
 {
-  "name": "updateportfolio",
+  "name": "full-stack-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nuru11.github.io/myPortfolio",
+  "homepage": "https://nuru11.github.io/full-stack-portfolio",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    
   }
 }
